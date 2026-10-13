@@ -11,7 +11,7 @@
   "devDependencies": {
 	"less": "",
 	"argh": "",
-    "grunt": "^0.4.5",
+    "grunt": "^1.6.3",
     "grunt-banner": "",
     "grunt-contrib-clean": "",
     "grunt-contrib-compress": "",
